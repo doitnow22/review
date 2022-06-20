@@ -1,0 +1,2 @@
+git test
+1. git 문서를 git_hub 에 올리기
